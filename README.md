@@ -14,9 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="#selected-work">Explore the work</a> &nbsp; · &nbsp;
   <a href="#how-i-build">How I build</a> &nbsp; · &nbsp;
-  <a href="https://github.com/WimpyvL?tab=repositories">Browse repositories</a>
+  <a href="https://github.com/WimpyvL/WimpyvL">Profile repository</a>
 </p>
 
 ---
@@ -36,37 +35,6 @@
 <td width="33%" valign="top">
 <h3>03 / Systems that hold</h3>
 <p>Cloud architecture, delivery pipelines, observability, recovery paths, and security built into the design.</p>
-</td>
-</tr>
-</table>
-
-### Selected work
-
-A few public repositories to explore across platforms, business software, and creative experiments.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/WimpyvL/idealtrue">Ideal Stay</a></h3>
-<p>Accommodation marketplace and host operations platform, spanning discovery, bookings, and administration.</p>
-<p><sub>React · TypeScript · Encore · PostgreSQL</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/WimpyvL/Zappy-Health-Dashboard">Telehealth Dashboard</a></h3>
-<p>A healthcare dashboard bringing patient, provider, and admin workflows into a shared application.</p>
-<p><sub>Next.js · TypeScript · Firebase</sub></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/WimpyvL/topcut">Top Cut</a></h3>
-<p>A South African service-business website with responsive interfaces, service discovery, and quote requests.</p>
-<p><sub>Next.js · Tailwind CSS · Framer Motion</sub></p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/WimpyvL/Cosmic-shooter">Cosmic Shooter</a></h3>
-<p>A creative app experiment. A different corner of the workshop, where play gets room alongside practical systems.</p>
-<p><sub>React · Three.js · Prototype</sub></p>
 </td>
 </tr>
 </table>
